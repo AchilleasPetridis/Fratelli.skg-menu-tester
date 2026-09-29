@@ -199,12 +199,12 @@ footer {
     justify-content: flex-start;
     gap: 20px;
     align-items: center;
-    
 }
 
-i {
-    font-size: 1.1rem;
-    color: white;
+#social img {
+    width: 24px;
+    height: 24px;
+    display: block;
 }
 
 #phone a {
