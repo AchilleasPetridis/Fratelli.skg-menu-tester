@@ -205,8 +205,7 @@ footer {
     width: 24px;
     height: 24px;
     display: block;
-    font-size: 1.1rem;
-    color: white;
+    filter: brightness(0) invert(1);
 }
 
 #phone a {
